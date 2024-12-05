@@ -1,3 +1,3 @@
-1 - only .py file 
+1 - full rar (code + assets)
 
-2 - full rar (code + assets)
+2 - only .py file 
